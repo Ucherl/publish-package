@@ -15,5 +15,5 @@ jobs:
           username: Ucherl
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: ghcr.io
-          repository: Ucherl/publish-packages/game
+          repository: ucherl/publish-packages/game
           tag_with_sha: true
